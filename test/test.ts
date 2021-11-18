@@ -1,3 +1,3 @@
-import { ffprobe } from "../src/index";
+import { osx64 } from "../src/index";
 
-console.log(ffprobe);
+console.log(osx64);
